@@ -33,9 +33,9 @@ export default function Home() {
           <h2 className="text-3xl font-bold text-center mb-6">Our Featured Cars</h2>
           <BentoDepthThreeD
             items={[
-              { titleEN: "Honda Accord", descriptionEN: "$22,000", image: "/images/placeholder1.avif" },
-              { titleEN: "Toyota Camry", descriptionEN: "$25,000", image: "/images/placeholder2.avif" },
-              { titleEN: "BMW 5 Series", descriptionEN: "$40,000", image: "/images/placeholder3.avif" },
+              { titleEN: "Honda Accord", descriptionEN: "$22,000", image: "/images/placeholder1.avif", position: 'left' },
+              { titleEN: "Toyota Camry", descriptionEN: "$25,000", image: "/images/placeholder2.avif", position: 'center' },
+              { titleEN: "BMW 5 Series", descriptionEN: "$40,000", image: "/images/placeholder3.avif", position: 'right' },
             ]}
             className="grid gap-4"
           />

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter_Tight, Poppins } from "next/font/google";
+import { Inter_Tight } from "next/font/google";
 import { SiteThemeProvider } from '@/components/sections/ThemeProvider';
 import "./globals.css";
 
