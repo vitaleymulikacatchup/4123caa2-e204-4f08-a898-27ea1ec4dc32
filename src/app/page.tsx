@@ -2,7 +2,7 @@
 
 import BillboardHero from '@/components/sections/layouts/hero/BillboardHero';
 import ButtonHoverBubble from '@/components/buttons/ButtonHoverBubble';
-import BentoDepthThreeD from '@/components/bento/BentoDepthThreeD';
+import BentoDepthThreeD from '@/components/bento/BentoDepthThreeD/BentoDepthThreeD';
 import AccordionStandardExpand from '@/components/accordions/AccordionStandardExpand';
 import TextboxStandard from '@/components/textbox/TextboxStandard';
 import TextNumberCount from '@/components/text/TextNumberCount';
